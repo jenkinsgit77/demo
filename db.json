@@ -1,56 +1,55 @@
 {
-    "TrackingId": "klfjljdflkgjdfg",
-    "ErrorCode": "0",
-    "ErrorMessage": "Success",
-    "ListOfCustomers": [
-        {
-            "CustomerName": "ABC",
-            "TotalCount": "50"
-        },
-        {
-            "CustomerName": "CDE",
-            "TotalCount": "50"
-        },
-        
-        {
-            "CustomerName": "EFG",
-            "TotalCount": "50"
-        },
-        
-        {
-            "CustomerName": "GHI",
-            "TotalCount": "50"
-        },
-        
-        {
-            "CustomerName": "IJK",
-            "TotalCount": "50"
-        },
-        
-        {
-            "CustomerName": "KLM",
-            "TotalCount": "50"
-        },
-        
-        {
-            "CustomerName": "MNO",
-            "TotalCount": "50"
-        },
-        
-        {
-            "CustomerName": "OPQ",
-            "TotalCount": "50"
-        },
-        
-        {
-            "CustomerName": "QRS",
-            "TotalCount": "50"
-        },
-        
-        {
-            "CustomerName": "STU",
-            "TotalCount": "50"
-        }
-        
-    ]
+	"TrackingId": "klfjljdflkgjdfg",
+	"ErrorCode": "0",
+	"ErrorMessage": "Success",
+	"ListOfCustomers": [{
+			"CustomerName": "ABC",
+			"TotalCount": "50"
+		},
+		{
+			"CustomerName": "CDE",
+			"TotalCount": "50"
+		},
+
+		{
+			"CustomerName": "EFG",
+			"TotalCount": "50"
+		},
+
+		{
+			"CustomerName": "GHI",
+			"TotalCount": "50"
+		},
+
+		{
+			"CustomerName": "IJK",
+			"TotalCount": "50"
+		},
+
+		{
+			"CustomerName": "KLM",
+			"TotalCount": "50"
+		},
+
+		{
+			"CustomerName": "MNO",
+			"TotalCount": "50"
+		},
+
+		{
+			"CustomerName": "OPQ",
+			"TotalCount": "50"
+		},
+
+		{
+			"CustomerName": "QRS",
+			"TotalCount": "50"
+		},
+
+		{
+			"CustomerName": "STU",
+			"TotalCount": "50"
+		}
+
+	]
 }
