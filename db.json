@@ -4,12 +4,53 @@
     "ErrorMessage": "Success",
     "ListOfCustomers": [
         {
-            "CustomerName": "ARJUN SINGH S/O VASAKHA SINH",
-            "TotalCount": "2"
+            "CustomerName": "ABC",
+            "TotalCount": "50"
         },
         {
-            "CustomerName": "SAHIB SINGH S/O HARBANS SINGH",
-            "TotalCount": "2"
-        }
+            "CustomerName": "CDE",
+            "TotalCount": "50"
+        },
+        
+        {
+            "CustomerName": "EFG",
+            "TotalCount": "50"
+        },
+        
+        {
+            "CustomerName": "GHI",
+            "TotalCount": "50"
+        },
+        
+        {
+            "CustomerName": "IJK",
+            "TotalCount": "50"
+        },
+        
+        {
+            "CustomerName": "KLM",
+            "TotalCount": "50"
+        },
+        
+        {
+            "CustomerName": "MNO",
+            "TotalCount": "50"
+        },
+        
+        {
+            "CustomerName": "OPQ",
+            "TotalCount": "50"
+        },
+        
+        {
+            "CustomerName": "QRS",
+            "TotalCount": "50"
+        },
+        
+        {
+            "CustomerName": "STU",
+            "TotalCount": "50"
+        },
+        
     ]
 }
