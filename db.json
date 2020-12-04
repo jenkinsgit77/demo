@@ -1,10 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post jsdhjshd" },
-    { "id": 2, "title": "Post djhsjhdjs" },
-    { "id": 3, "title": "Post dnmsndmnsmdn" }
-  ],
-  "comments": [
+  "distributor": "abc",
+  "users": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
