@@ -1,15 +1,1 @@
-{
-    "TrackingId": "klfjljdflkgjdfg",
-    "ErrorCode": "0",
-    "ErrorMessage": "Success",
-    "ListOfCustomers": [
-        {
-            "CustomerName": "ARJUN SINGH S/O VASAKHA SINH",
-            "TotalCount": "2"
-        },
-        {
-            "CustomerName": "SAHIB SINGH S/O HARBANS SINGH",
-            "TotalCount": "2"
-        }
-    ]
-}
+{"ErrorCode":  "0","ErrorMessage":  "Success","ListOfCustomers":  [{"TotalCount":  "2","CustomerName":  "ARJUN SINGH S/O VASAKHA SINH"}],"TrackingId":  "klfjljdflkgjdfg"}
