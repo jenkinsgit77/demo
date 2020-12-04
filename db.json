@@ -1,11 +1,11 @@
 {
-   "ErrorCode":"0",
-   "ErrorMessage":"Success",
-   "ListOfCustomers":[
+   "errorcode":"0",
+   "errormessage":"Success",
+   "listofcustomers":[
       {
-         "TotalCount":"2",
-         "CustomerName":"ARJUN SINGH S/O VASAKHA SINH"
+         "totalcount":"2",
+         "customername":"ARJUN SINGH S/O VASAKHA SINH"
       }
    ],
-   "TrackingId":"klfjljdflkgjdfg"
+   "trackingid":"klfjljdflkgjdfg"
 }
